@@ -1,0 +1,17 @@
+# Compiled output
+*.class
+bin/
+out/
+build/
+target/
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store

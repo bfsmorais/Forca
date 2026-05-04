@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import javax.swing.text.StyledEditorKit.BoldAction;
 
-public class Hangman {
+public class JogoDaForca {
 
 
 static String palavraAdivinhar;
